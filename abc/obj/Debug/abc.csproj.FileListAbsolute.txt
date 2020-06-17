@@ -1,0 +1,10 @@
+D:\Visual Studio 2017\OSImitation\abc\bin\Debug\abc.exe.config
+D:\Visual Studio 2017\OSImitation\abc\bin\Debug\abc.exe
+D:\Visual Studio 2017\OSImitation\abc\bin\Debug\abc.pdb
+D:\Visual Studio 2017\OSImitation\abc\obj\Debug\abc.Form1.resources
+D:\Visual Studio 2017\OSImitation\abc\obj\Debug\abc.Properties.Resources.resources
+D:\Visual Studio 2017\OSImitation\abc\obj\Debug\abc.csproj.GenerateResource.cache
+D:\Visual Studio 2017\OSImitation\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\OSImitation\abc\obj\Debug\abc.exe
+D:\Visual Studio 2017\OSImitation\abc\obj\Debug\abc.pdb
+D:\Visual Studio 2017\OSImitation\abc\obj\Debug\abc.csprojAssemblyReference.cache

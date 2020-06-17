@@ -1,0 +1,15 @@
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\OSImitation.deps.json
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\OSImitation.runtimeconfig.json
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\OSImitation.runtimeconfig.dev.json
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\OSImitation.dll
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\OSImitation.pdb
+D:\Visual Studio 2017\OSImitation\OSImitation\obj\Debug\netcoreapp2.1\OSImitation.csprojAssemblyReference.cache
+D:\Visual Studio 2017\OSImitation\OSImitation\obj\Debug\netcoreapp2.1\OSImitation.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\OSImitation\OSImitation\obj\Debug\netcoreapp2.1\OSImitation.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\OSImitation\OSImitation\obj\Debug\netcoreapp2.1\OSImitation.AssemblyInfo.cs
+D:\Visual Studio 2017\OSImitation\OSImitation\obj\Debug\netcoreapp2.1\OSImitation.dll
+D:\Visual Studio 2017\OSImitation\OSImitation\obj\Debug\netcoreapp2.1\OSImitation.pdb
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\abc.exe
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\abc.pdb
+D:\Visual Studio 2017\OSImitation\OSImitation\bin\Debug\netcoreapp2.1\abc.exe.config
+D:\Visual Studio 2017\OSImitation\OSImitation\obj\Debug\netcoreapp2.1\OSImitation.csproj.CopyComplete

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{80FE9CA0-AF4E-4087-916C-6808F1DEDCE7}|Default">
+  <MonoDevelop.Ide.ItemProperties.OSImitation FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OSImitation/Memory.cs">
+    <Files>
+      <File FileName="OSImitation/Control.cs" Line="42" Column="1" />
+      <File FileName="OSImitation/Process.cs" Line="47" Column="1" />
+      <File FileName="OSImitation/ProcessControlBlock.cs" Line="15" Column="45" />
+      <File FileName="OSImitation/CPUImitation.cs" Line="9" Column="15" />
+      <File FileName="OSImitation/IO.cs" Line="7" Column="19" />
+      <File FileName="OSImitation/Memory.cs" Line="45" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OSImitation" expanded="True">
+            <Node name="OSImitation" expanded="True">
+              <Node name="Memory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
